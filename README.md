@@ -1,0 +1,2 @@
+# AI
+about artificial intelligence 
